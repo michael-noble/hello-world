@@ -1,2 +1,6 @@
 # hello-world
-First repository
+
+Greetings Earthlings,
+I come in peace.
+
+W~AVE
